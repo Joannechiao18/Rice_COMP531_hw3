@@ -9,3 +9,8 @@ Long-clicked the mouse to stretch the stick and try to cross the river.
 1. **Score**: Everytime you successfully cross the river and reach the right wall, you will get 1 point. In addition, if the stick lies perfectly within the red portion of the right wall, you will get 10 points. 
 2. **Highest Score**: This is your highest score so far, until you reopen the application (when refreshing the page, the highest score remains).
 3. **Lives**: You have three lives in the beginning. Everytime you either fall from the stick, collide with balloons, or jump too far (press *Space* to jump), your lives will be decremented by one. When you have lost all your 3 lives, the game is over.
+
+# Demo
+1. "netid": "yw187"
+2. "title": "Cross the River Game"
+3. "site": "http://crossRiver.surge.sh/"
